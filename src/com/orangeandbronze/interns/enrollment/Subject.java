@@ -1,7 +1,5 @@
 
 //WAAAAAAAAAAAAAAAAAAAAAAA
-//wa/
-//this
 
 package com.orangeandbronze.interns.enrollment;
 
